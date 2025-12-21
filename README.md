@@ -1,4 +1,4 @@
-# Aircraft with lowest Risk Analysis for Business Expansion ✈️
+# Aircraft with lowest Risk for Business Purchase and Operation 
 
 ## Overview
 This project analyzes historical aviation accident data to identify the **lowest-risk aircraft models** for a company planning to expand into commercial and private aviation operations.  
@@ -63,7 +63,7 @@ These aircraft demonstrate **minimal accident involvement and no fatal accident 
 
 ## Interactive Tableau Dashboard 
 
-**[[INSERT YOUR TABLEAU PUBLIC DASHBOARD LINK HERE](https://public.tableau.com/views/Air_Craft_final_project/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
+**[[MY TABLEAU PUBLIC DASHBOARD LINK CLICK HERE TO VIEW IT ](https://public.tableau.com/views/Air_Craft_final_project/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
 
 The interactive dashboard allows stakeholders to:
 - Compare aircraft risk scores
