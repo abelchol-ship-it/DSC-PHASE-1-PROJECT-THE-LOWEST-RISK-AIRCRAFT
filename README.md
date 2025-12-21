@@ -63,7 +63,7 @@ These aircraft demonstrate **minimal accident involvement and no fatal accident 
 
 ## Interactive Tableau Dashboard 
 
-**[[INSERT YOUR TABLEAU PUBLIC DASHBOARD LINK HERE](https://public.tableau.com/views/Book4_17661000027750/finalDB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
+**[[INSERT YOUR TABLEAU PUBLIC DASHBOARD LINK HERE](https://public.tableau.com/views/Air_Craft_final_project/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
 
 The interactive dashboard allows stakeholders to:
 - Compare aircraft risk scores
