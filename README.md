@@ -109,7 +109,7 @@ The interactive dashboard allows stakeholders to:
 ## Author
 **Abel Aleu Chol Garang**  
 Data Scientist | Aviation Risk Analysis  
-🔗 LinkedIn: [*(add your LinkedIn link here)*](https://www.linkedin.com/in/abel-aleu-941799247?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BByYx6s9aQ7WQv%2FXWyVZvOA%3D%3D)
+🔗 LinkedIn: [*(My LinkedIn account link)*](https://www.linkedin.com/in/abel-aleu-941799247?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BByYx6s9aQ7WQv%2FXWyVZvOA%3D%3D)
 
 
 ---
